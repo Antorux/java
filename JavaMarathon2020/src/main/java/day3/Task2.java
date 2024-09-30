@@ -15,7 +15,7 @@ public class Task2 {
                 break;
             }
 
-            System.out.println(x / y);
+            System.out.print(x / y + "\n");
         }
     }
 }
